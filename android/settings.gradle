@@ -1,0 +1,3 @@
+rootProject.name = 'gonativeModule3'
+
+include ':app'
