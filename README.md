@@ -295,3 +295,11 @@ After:
 ```bash
 react-native run-android
 ```
+
+## REDUX and REACT-REDUX
+
+Plugin to control state between components
+
+```bash
+yarn add redux react-redux
+```
